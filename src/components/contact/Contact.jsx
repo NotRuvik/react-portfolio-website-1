@@ -34,13 +34,13 @@ const Contact = () => {
             <a href="mailto:abc@gmail.com" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
-            <FaFacebookMessenger className="contact__option" />
+            <FaFacebookMessenger className="contact__option-icon" />
             <h4>Messenger</h4>
             <h5>abc</h5>
             <a href="https://m.me/abc" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
-            <BiSolidMessageSquareDots className="contact__option" />
+            <BiSolidMessageSquareDots className="contact__option-icon" />
             <h4>Whatsapp</h4>
             <h5>abc@gmail.com</h5>
             <a href="https://api.whatsapp.com/send?phone+919140273118" target="_blank">Send a message</a>
